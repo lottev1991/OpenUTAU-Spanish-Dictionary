@@ -1,4 +1,4 @@
-# OpenUTAU-Spanish-Dictionary
+# OpenUTAU Spanish Dictionary
 Spanish Dictionary for [OpenUTAU](https://github.com/stakira/openutau), based on the Spanish CMU Pronouncing Dictionary found [here](https://sourceforge.net/projects/cmusphinx/files/Acoustic%20and%20Language%20Models/Spanish/), albeit with some adjustments.
 
 This dictionary works with my Spanish Syllable-based Phonemizer.
