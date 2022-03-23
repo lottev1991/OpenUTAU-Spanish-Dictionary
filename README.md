@@ -4,6 +4,6 @@ Spanish Dictionary for [OpenUTAU](https://github.com/stakira/openutau), based on
 This dictionary works with my Spanish Syllable-based Phonemizer.
 
 ## Download instrunctions
-Please place this file in the ``Plugins`` folder of your OpenUTAU install.
+Please place the ``cmudict_es.txt`` file in the ``Plugins`` folder of your OpenUTAU install.
 
 Apologies for any errors in the file! I'll try my best to fix them. Feel free to submit merge requests if necessary.
