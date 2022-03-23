@@ -21595,6 +21595,7 @@ temor  t e m o r
 temores  t e m o r e s
 temperatura  t e m p e r a t u r a
 temperaturas  t e m p e r a t u r a s
+tempestad  t e m p e s t a d
 templadas  t e m p l a d a s
 templando  t e m p l a n d o
 templar  t e m p l a r
