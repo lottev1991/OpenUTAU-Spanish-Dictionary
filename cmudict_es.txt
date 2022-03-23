@@ -20786,6 +20786,7 @@ soldados  s o l d a d o s
 soldier  s o l d y e r
 soleada  s o l e a d a
 soleado  s o l e a d o
+soledad  s o l e d a d
 solemnidad  s o l e m n i d a d
 solicita  s o l i z i t a
 solicitada  s o l i z i t a d a
