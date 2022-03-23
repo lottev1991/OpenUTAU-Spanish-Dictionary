@@ -6,4 +6,4 @@ This dictionary works with my Spanish Syllable-based Phonemizer.
 ## Download instrunctions
 Please place the ``cmudict_es.txt`` file in the ``Plugins`` folder of your OpenUTAU install.
 
-Apologies for any errors in the file! I'll try my best to fix them. Feel free to submit merge requests if necessary.
+Apologies for any errors in the file! I'll try my best to fix them. Feel free to submit merge requests if necessary. This also goes for words that you feel are missing. Feel free to add any!
