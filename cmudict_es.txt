@@ -4938,6 +4938,8 @@ conjuntamente  k o n h u n t a m e n t e
 conjuntas  k o n h u n t a s
 conjunto  k o n h u n t o
 conjuntos  k o n h u n t o s
+conjuro  k o n h u r o
+conjura  k o n h u r a
 conlleva  k o n ll e b a
 conllevan  k o n ll e b a n
 conmemora  k o n m e m o r a
