@@ -8557,6 +8557,7 @@ enterraron  e n t e rr a r o n
 enteró  e n t e r o 
 entidad  e n t i d a d
 entidades  e n t i d a d e s
+entienda  e n t y e n d a
 entiende  e n t y e n d e
 entienden  e n t y e n d e n
 entiendes  e n t y e n d e s
