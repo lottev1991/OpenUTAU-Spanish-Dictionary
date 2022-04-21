@@ -406,7 +406,7 @@ acuérdense  a k w e r d e n s e
 acuérdese  a k w e r d e s e 
 acá  a k a 
 acércate  a z e r k a t e 
-acérrimos  a z e r r i m o s 
+acérrimos  a z e rr i m o s 
 acústico  a s u s t i k o
 acústicos  a k u s t i k o s 
 adalid  a d a l i d
@@ -3896,22 +3896,22 @@ cerezo  z e r e z o
 cerillos  z e r i ll o s
 cero  z e r o
 cerraban  z e rr a b a n
-cerrada  z e r r a d a
-cerradas  z e r r a d a s
-cerrado  z e r r a d o
-cerrados  z e r r a d o s
-cerraduras  z e r r a d u r a s
-cerrando  z e r r a n d o
-cerrar  z e r r a r
-cerraran  z e r r a r a n
-cerrarla  z e r r a r l a
-cerrarnos  z e r r a r n o s
-cerraron  z e r r a r o n
-cerrarse  z e r r a r s e
-cerrará  z e r r a r a 
-cerremos  z e r r e m o s
-cerro  z e r r o
-cerró  z e r r o 
+cerrada  z e rr a d a
+cerradas  z e rr a d a s
+cerrado  z e rr a d o
+cerrados  z e rr a d o s
+cerraduras  z e rr a d u r a s
+cerrando  z e rr a n d o
+cerrar  z e rr a r
+cerraran  z e rr a r a n
+cerrarla  z e rr a r l a
+cerrarnos  z e rr a r n o s
+cerraron  z e rr a r o n
+cerrarse  z e rr a r s e
+cerrará  z e rr a r a 
+cerremos  z e rr e m o s
+cerro  z e rr o
+cerró  z e rr o 
 certero  z e r t e r o
 certeza  z e r t e z a
 certidumbre  z e r t i d u m b r e
@@ -8321,9 +8321,9 @@ encender  e n z e n d e r
 encendido  e n z e n d i d o
 encendidos  e n z e n d i d o s
 encendió  e n z e n d y o 
-encerrada  e n z e r r a d a
-encerrado  e n z e r r a d o
-encerramiento  e n z e r r a m y e n t o
+encerrada  e n z e rr a d a
+encerrado  e n z e rr a d o
+encerramiento  e n z e rr a m y e n t o
 encestar  e n z e s t a r
 enchufes  e n ch u f e s
 encierran  e n z y e rr a n
