@@ -40,7 +40,6 @@ abby  a b b i
 abdallah  a b d a ll a
 abdalá  a b d a l a 
 abdel  a b d e l
-abdelaraham  a b d e l a r a a m
 abdomen  a b d o m e n
 abdul  a b d u l
 abdullah  a b d u ll a
@@ -186,7 +185,7 @@ accionariado  a k z y o n a r y a d o
 acciones  a k z y o n e s
 accionistas  a k z y o n i s t a s
 acción  a k z y o n 
-acecho  a z e k o
+acecho  a z e ch o
 aceite  a z e I t e
 acelerado  a z e l e r a d o
 aceleradores  a z e l e r a d o r e s
