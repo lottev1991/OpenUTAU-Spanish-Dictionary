@@ -40,6 +40,7 @@ abby  a b b i
 abdallah  a b d a ll a
 abdalá  a b d a l a 
 abdel  a b d e l
+abdelaraham  a b d e l a r a a m
 abdomen  a b d o m e n
 abdul  a b d u l
 abdullah  a b d u ll a
@@ -10548,7 +10549,7 @@ germana  h e r m a n a
 germano  h e r m a n o
 germanos  h e r m a n o s
 germán  h e r m a n 
-gerry  h e r r i
+gerry  h e rr i
 gerzog  h e r z o g
 gestación  h e s t a z y o n 
 gestionar  h e s t y o n a r
@@ -18197,7 +18198,7 @@ querido  k e r i d o
 queridos  k e r i d o s
 queriendo  k e r y e n d o
 querrá  k e rr a
-querrás  k e r r a s
+querrás  k e rr a s
 querría  k e rr i a
 querrías  k e rr i a s
 queréis  k e r e I s
