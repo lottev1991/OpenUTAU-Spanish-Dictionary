@@ -9049,7 +9049,7 @@ establezcan  e s t a b l e z k a n
 estacionado  e s t a z y o n a d o
 estacionamiento  e s t a z y o n a m y e n t o
 estacionamientos  e s t a z y o n a m y e n t o s
-estacionan  e s t a z yo n a n
+estacionan  e s t a z y o n a n
 estacionaria  e s t a z y o n a r y a
 estacionaron  e s t a z y o n a r o n
 estaciones  e s t a z y o n e s
@@ -14126,7 +14126,7 @@ mayté  m a I t e
 maza  m a z a
 mazatlán  m a z a t l a n 
 mazo  m a z o
-maá±ana  m a a a n a
+maáana  m a a a n a
 maía  m a i a 
 maíz  m a i z 
 mañana  m a gn a n a 
@@ -20464,7 +20464,7 @@ sexuales  s e k s w a l e s
 sexualmente  s e k s w a l m e n t e
 sexy  s e k s i
 seyfard  s e I f a r d
-seá±or  s e a o r
+seáor  s e a o r
 señ  s e gn 
 seña  s e gn a 
 señal  s e gn a l 
@@ -21470,7 +21470,7 @@ tanta  t a n t a
 tantas  t a n t a s
 tanto  t a n t o
 tantos  t a n t o s
-tanzania  t a n z a n yi a
+tanzania  t a n z a n y a
 tapa  t a p a
 tapando  t a p a n d o
 tapar  t a p a r
