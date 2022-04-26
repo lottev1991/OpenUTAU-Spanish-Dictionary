@@ -12794,7 +12794,7 @@ juguetes  h u g e t e s
 jugó  h u g o 
 juicio  h w i z y o
 juicios  h w i z y o s
-jujuy  h u h w i
+jujuy  h u h u I
 julia  h u l y a
 julian  h u l y a n
 juliano  h u l y a n o
@@ -14885,7 +14885,7 @@ muto  m u t o
 mutua  m u t w a
 mutuamente  m u t w a m e n t e
 mutuas  m u t w a s
-muy  m w i
+muy  m u I
 muéstrame  m w e s t r a m e
 muévanse  m w e b a n s e
 muévete  m w e b e t e
@@ -19874,7 +19874,7 @@ ruteá  rr u t e a
 ruth  rr u t
 rutina  rr u t i n a
 rutinaria  rr u t i n a r y a
-ruy  rr w i
+ruy  rr u I
 ruz  rr u z
 ruíz  rr w i z 
 ryan  rr y a n
@@ -22335,7 +22335,7 @@ tuvimos  t u b i m o s
 tuviste  t u b i s t e
 tuvo  t u b o
 tuvok  t u b o k
-tuy  t w i
+tuy  t u I
 tuyo  t u y o
 tuyos  t u y o s
 tv  t b
