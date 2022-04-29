@@ -14986,7 +14986,7 @@ nadó  n a d o
 nagasaki  n a g a s a k i
 nagoya  n a g o y a
 namba  n a m b a
-nancy  n a n z i
+nancy  n a n k i
 nano  n a n o
 naomi  n a o m i
 napluza  n a p l u z a
@@ -16519,6 +16519,7 @@ peres  p e r e s
 perestroika  p e r e s t r o I k a
 perez  p e r e z
 pereza  p e r e z a
+perfección  p e r f e k z y o n
 perfeccionado  p e r f e k z y o n a d o
 perfeccionamiento  p e r f e k z y o n a m y e n t o
 perfeccionan  p e r f e k z y o n a n
