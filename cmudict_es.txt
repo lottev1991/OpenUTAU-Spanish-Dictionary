@@ -40,7 +40,7 @@ abby  a b b i
 abdallah  a b d a ll a
 abdalá  a b d a l a 
 abdel  a b d e l
-abdelaraham  a b d e l a r a a m
+abdelaraham  a b d e l a r a a n
 abdomen  a b d o m e n
 abdul  a b d u l
 abdullah  a b d u ll a
@@ -79,7 +79,7 @@ abortos  a b o r t o s
 aborígenes  a b o r i h e n e s 
 about  a b o u t
 abra  a b r a
-abraham  a b r a a m
+abraham  a b r a a n
 abran  a b r a n
 abrazar  a b r a z a r
 abrazo  a b r a z o
@@ -410,7 +410,7 @@ acérrimos  a z e rr i m o s
 acústico  a s u s t i k o
 acústicos  a k u s t i k o s 
 adalid  a d a l i d
-adam  a d a m
+adam  a d a n
 adams  a d a m s
 adapta  a d a p t a
 adaptación  a d a p t a z y o n 
@@ -884,7 +884,7 @@ alberto  a l b e r t o
 albita  a l b i t a
 alborada  a l b o r a d a
 albright  a l b r i g t
-album  a l b u m
+album  a l b u n
 alcalde  a l k a l d e
 alcaldes  a l k a l d e s
 alcaldía  a l k a l d i a 
@@ -1110,7 +1110,7 @@ alzheimer  a l z e I m e r
 alzó  a l z o 
 aléjate  a l e h a t e 
 alérgicos  a l e r h i k o s 
-am  a m
+am  a n
 ama  a m a
 amable  a m a b l e
 amado  a m a d o
@@ -1230,7 +1230,7 @@ amplíe  a m p l i e
 ampollas  a m p o ll a s
 amputaciones  a m p u t a z y o n e s
 amputado  a m p u t a d o
-amsterdam  a m s t e r d a m
+amsterdam  a m s t e r d a n
 amurallada  a m u r a ll a d a
 amy  a m i
 amán  a m a n 
@@ -1241,7 +1241,7 @@ américas  a m e r i k a s
 an  a n
 ana  a n a
 anafilaxia  a n a f i l a k s y a
-anaheim  a n a e I m
+anaheim  a n a e I n
 anal  a n a l
 analfabetas  a n a l f a b e t a s
 analfabetismo  a n a l f a b e t i s m o
@@ -2544,7 +2544,7 @@ bakabú  b a k a b u
 baker  b a k e r
 bala  b a l a
 balaguer  b a l a g e r
-balaheim  b a l a e I m
+balaheim  b a l a e I n
 balance  b a l a n z e
 balanceado  b a l a n z e a d o
 balancear  b a l a n z e a r
@@ -2665,7 +2665,7 @@ baschud  b a s ch u d
 base  b a s e
 basebol  b a s e b o l
 bases  b a s e s
-bashkim  b a s k i m
+bashkim  b a s k i n
 basquetbol  b a s k e t b o l
 basquetbolista  b a s k e t b o l i s t a
 basquio  b a s k y o
@@ -3076,9 +3076,9 @@ brío  b r i o
 bríos  b r i o s 
 bubanza  b u b a n z a
 bucara  b u k a r a
-bucaram  b u k a r a m
+bucaram  b u k a r a n
 bucaranato  b u k a r a n a t o
-bucarám  b u k a r a m 
+bucarám  b u k a r a n 
 buceo  b u z e o
 bue  b w e
 buen  b w e n
@@ -3330,7 +3330,7 @@ calzada  k a l z a d a
 calzón  k a l z o n 
 calé  k a l e
 caléxico  k a l e k s i k o 
-cam  k a m
+cam  k a n
 cama  k a m a
 camacho  k a m a ch o
 camaguey  k a m a g e I
@@ -4385,7 +4385,7 @@ colándome  k o l a n d o m e
 colás  k o l a s 
 colón  k o l o n 
 colóquese  k o l o k e s e 
-com  k o m
+com  k o n
 coma  k o m a
 comandaban  k o m a n d a b a n
 comandado  k o m a n d a d o
@@ -7763,7 +7763,7 @@ dulcineas  d u l z i n e a s
 duma  d u m a
 dumitrescu  d u m i t r e s k u
 duncan  d u n k a n
-dunham  d u n a m
+dunham  d u n a n
 dunloy  d u n l o I
 dupla  d u p l a
 duplica  d u p l i k a
@@ -8101,7 +8101,7 @@ eléctrico  e l e k t r i k o
 eléctricos  e l e k t r i k o s 
 elí  e l i 
 elías  e l i a s 
-em  e m
+em  e n
 emana  e m a n a
 emanaciones  e m a n a z y o n e s
 emancipan  e m a n z i p a n
@@ -9892,7 +9892,7 @@ filetes  f i l e t e s
 filiberto  f i l i b e r t o
 filipinas  f i l i p i n a s
 filipinos  f i l i p i n o s
-film  f i l m
+film  f i l n
 filmación  f i l m a z y o n 
 filmadas  f i l m a d a s
 filmado  f i l m a d o
@@ -10489,7 +10489,7 @@ gato  g a t o
 gatorno  g a t o r n o
 gatos  g a t o s
 gaveta  g a b e t a
-gayoom  g a y o o m
+gayoom  g a y o o n
 gaza  g a z a
 gelia  h e l y a
 gemelos  h e m e l o s
@@ -10995,7 +10995,7 @@ hagámoslo  a g a m o s l o
 haitiano  a I t y a n o
 haitianos  a I t y a n o s
 haití  a I t i 
-hakaam  a k a a m
+hakaam  a k a a n
 hake  a k e
 hal  a l
 halagüeñas  a l a g w e gn a s 
@@ -11418,7 +11418,7 @@ iberoamericana  i b e r o a m e r i k a n a
 iberoamericanos  i b e r o a m e r i k a n o s
 iberoamérica  i b e r o a m e r i k a 
 ibió  i b y o 
-ibrahim  i b r a I m
+ibrahim  i b r a I n
 ibérica  i b e r i k a 
 ice  i z e
 ichazo  i ch a z o
@@ -12447,7 +12447,7 @@ invertido  i n b e r t i d o
 invertidos  i n b e r t i d o s
 invertir  i n b e r t i r
 invertirán  i n b e r t i r a n 
-investcom  i n b e s t k o m
+investcom  i n b e s t k o n
 investidura  i n b e s t i d u r a
 investiga  i n b e s t i g a
 investigaciones  i n b e s t i g a z y o n e s
@@ -12692,7 +12692,7 @@ jiang  h y a n g
 jiji  h i h i
 jilguero  h i l g e r o
 jill  h i ll
-jim  h i m
+jim  h i n
 jimmy  h i m m i
 jiménez  h i m e n e z 
 jinetes  h i n e t e s
@@ -12920,7 +12920,7 @@ kilohertz  k i l o e r t s
 kilos  k i l o s
 kilómetro  k i l o m e t r o 
 kilómetros  k i l o m e t r o s 
-kim  k i m
+kim  k i n
 king  k i n g
 kingston  k i n g s t o n
 kinkel  k i n k e l
@@ -12933,7 +12933,7 @@ kitty  k i t t i
 klaus  k l a U s
 klingon  k l i n g o n
 klitbo  k l i t b o
-km  k m
+km  k n
 know  k n o u
 kobe  k o b e
 kofi  k o f i
@@ -12974,7 +12974,7 @@ laboran  l a b o r a n
 laborar  l a b o r a r
 laboratorio  l a b o r a t o r y o
 laboratorios  l a b o r a t o r y o s
-laborem  l a b o r e m
+laborem  l a b o r e n
 labores  l a b o r e s
 laborista  l a b o r i s t a
 laboristas  l a b o r i s t a s
@@ -13650,7 +13650,7 @@ líricas  l i r i k a s
 lógica  l o h i k a
 lógicamente  l o h i k a m e n t e 
 lópez  l o p e z 
-m  m
+m  n
 ma  m a
 maastricht  m a a s t r i ch t
 macabra  m a k a b r a
@@ -13733,7 +13733,7 @@ malang  m a l a n g
 malas  m a l a s
 malasia  m a l a s y a
 malayo  m a l a y o
-malcolm  m a l k o l m
+malcolm  m a l k o l n
 maldición  m a l d i z y o n
 maldita  m a l d i t a
 malditas  m a l d i t a s
@@ -14131,17 +14131,17 @@ maía  m a i a
 maíz  m a i z 
 mañana  m a gn a n a 
 mañani  m a gn a n i 
-mcaffrey  m k a f f r e I
-mccarthy  m k k a r t i
-mcclarty  m k k l a r t i
-mccurry  m k k u rr i
-mcdermot  m k d e r m o t
-mcdonalds  m k d o n a l d s
-mcdougal  m k d o u g a l
-mcgee  m k h e e
-mclaren  m k l a r e n
-mcquay  m k k w a I
-mcveigh  m k b e I g
+mcaffrey  e m k a f f r e I
+mccarthy  e m k k a r t i
+mcclarty  e m k k l a r t i
+mccurry  e m k k u rr i
+mcdermot  e m k d e r m o t
+mcdonalds  e m k d o n a l d s
+mcdougal  e m k d o u g a l
+mcgee  e m k h e e
+mclaren  e m k l a r e n
+mcquay  e m k k w a I
+mcveigh  e m k b e I g
 me  m e
 mear  m e a r
 mecanismo  m e k a n i s m o
@@ -14229,7 +14229,7 @@ membrete  m e m b r e t e
 memoria  m e m o r y a
 memorias  m e m o r y a s
 memorizan  m e m o r i z a n
-memorándum  m e m o r a n d u m 
+memorándum  m e m o r a n d u n 
 memphis  m e m p i s
 men  m e n
 menciona  m e n z y o n a
@@ -14248,7 +14248,7 @@ mencionó  m e n z y o n o
 mención  m e n z y o n 
 mendigar  m e n d i g a r
 mendoza  m e n d o z a
-menem  m e n e m
+menem  m e n e n
 menendes  m e n e n d e s
 meneses  m e n e s e s
 menganito  m e n g a n i t o
@@ -14357,7 +14357,7 @@ mezclábase  m e z k l a b a s e
 mezcolanza  m e s k o l a n z a
 mezquita  m e z k i t a
 mezquitas  m e z k i t a s
-mhm  m m
+mhm  m n
 mi  m i
 mia  m y a
 miamense  m y a m e n s e
@@ -14382,7 +14382,7 @@ midiéndole  m i d y e n d o l e
 midió  m i d y o 
 miedo  m y e d o
 miel  m y e l
-miem  m y e m
+miem  m y e n
 miembro  m y e m b r o
 miembros  m y e m b r o s
 mienten  m y e n t e n
@@ -14537,11 +14537,11 @@ mito  m i t o
 mitología  m i t o l o h i a 
 mixta  m i k s t a
 miércoles  m y e r k o l e s 
-mlanlovac  m l a n l o b a k
-mm  m m
-mm-hmm  m m m m
+mlanlovac  e m l a n l o b a k
+mm  m n
+mm-hmm  m m m n
 mmh  m m
-mn  m n
+mn  e m n
 mo  m o
 mobiliario  m o b i l i a r y o
 mobutu  m o b u t u
@@ -14914,7 +14914,7 @@ médica  m e d i k a
 médicas  m e d i k a s 
 médico  m e d i k o 
 médicos  m e d i k o s 
-ménem  m e n e m 
+ménem  m e n e n 
 mérida  m e r i d a 
 mérito  m e r i t o 
 méritos  m e r i t o s 
@@ -15042,9 +15042,9 @@ nazareno  n a z a r e n o
 nazi  n a z i
 nazis  n a z i s
 nazismo  n a z i s m o
-nba  n b a
-nbc  n b k
-ncis  n z i s
+nba  e n b a
+nbc  e n b k
+ncis  e n z i s
 ne  n e
 necaxa  n e k a k s a
 necesaria  n e z e s a r y a
@@ -15162,8 +15162,8 @@ news  n e u s
 newt  n e u t
 nexos  n e k s o s
 neza  n e z a
-ngueso  n g e s o
-nguesso  n g e s s o
+ngueso  e n g e s o
+nguesso  e n g e s s o
 ni  n i
 nicanor  n i k a n o r
 nicaragua  n i k a r a g w a
@@ -15223,7 +15223,7 @@ nocturna  n o k t u r n a
 nocturnos  n o k t u r n o s
 noel  n o e l
 noi  n o I
-nom  n o m
+nom  n o n
 nombra  n o m b r a
 nombrada  n o m b r a d a
 nombrado  n o m b r a d o
@@ -15264,7 +15264,7 @@ norman  n o r m a n
 normas  n o r m a s
 normativa  n o r m a t i b a
 normativos  n o r m a t i b o s
-norodom  n o r o d o m
+norodom  n o r o d o n
 noroeste  n o r o e s t e
 norte  n o r t e
 norteamericana  n o r t e a m e r i k a n a
@@ -15868,7 +15868,7 @@ oscuridad  o s k u r i d a d
 oscuro  o s k u r o
 oscuros  o s k u r o s
 osea  o s e a
-osfam  o s f a m
+osfam  o s f a n
 osiris  o s i r i s
 oslo  o s l o
 osmel  o s m e l
@@ -16037,11 +16037,11 @@ palomari  p a l o m a r i
 palpa  p a l p a
 palpar  p a l p a r
 paludismo  p a l u d i s m o
-pam  p a m
+pam  p a n
 pambazos  p a m b a z o s
 pan  p a n
 panacea  p a n a z e a
-panam  p a n a m
+panam  p a n a n
 panamericana  p a n a m e r i k a n a
 panameña  p a n a m e gn a 
 panameñas  p a n a m e gn a s 
@@ -16730,7 +16730,7 @@ pfeiffer  p f e I f f e r
 phil  p i l
 philip  p i l i p
 phillies  p i ll i e s
-phnom  p n o m
+phnom  p n o n
 phoenix  p o e n i k s
 pi  p i
 piacenza  p y a z e n z a
@@ -16971,7 +16971,7 @@ poco  p o k o
 pocos  p o k o s
 podadas  p o d a d a s
 podamos  p o d a m o s
-podem  p o d e m
+podem  p o d e n
 podemos  p o d e m o s
 poder  p o d e r
 poderes  p o d e r e s
@@ -17164,7 +17164,7 @@ posterior  p o s t e r y o r
 posteriores  p o s t e r y o r e s
 posteriormente  p o s t e r y o r m e n t e
 postes  p o s t e s
-postmortem  p o s t m o r t e m
+postmortem  p o s t m o r t e n
 postulación  p o s t u l a z y o n 
 postulados  p o s t u l a d o s
 postulantes  p o s t u l a n t e s
@@ -18334,12 +18334,12 @@ rafaél  rr a f a e l
 raffa  rr a f f a
 rafiq  rr a f i
 rafsanjani  rr a f s a n h a n i
-rahim  rr a I m
+rahim  rr a I n
 rahl  rr a l
 raimundo  rr a I m u n d o
 raja  rr a h a
 rajoub  rr a h o u b
-rakhim  rr a k i m
+rakhim  rr a k i n
 ralph  rr a l p
 ramadán  rr a m a d a n 
 ramal  rr a m a l
@@ -18811,7 +18811,7 @@ referirse  rr e f e r i r s e
 referirá  rr e f e r i r a 
 referirán  rr e f e r i r a n 
 referiría  rr e f e r i r i a 
-referéndum  rr e f e r e n d u m 
+referéndum  rr e f e r e n d u n
 refería  rr e f e r i a 
 referían  rr e f e r i a n 
 refiera  rr e f y e r a
@@ -19717,7 +19717,7 @@ rodearon  rr o d e a r o n
 rodee  rr o d e e
 rodeos  rr o d e o s
 roderico  rr o d e r i k o
-rodham  rr o d a m
+rodham  rr o d a n
 rodilla  rr o d i ll a
 rodillas  rr o d i ll a s
 rodionov  rr o d y o n o b
@@ -19808,7 +19808,7 @@ rotativo  rr o t a t i b o
 rotativos  rr o t a t i b o s
 roth  rr o t
 roto  rr o t o
-rotterdam  rr o t t e r d a m
+rotterdam  rr o t t e r d a n
 rotunda  rr o t u n d a
 rotundo  rr o t u n d o
 rotweiler  rr o t w e I l e r
@@ -19951,7 +19951,7 @@ sacudida  s a k u d i d a
 sacudido  s a k u d i d o
 sacudió  s a k u d y o 
 sacó  s a k o 
-saddam  s a d d a m
+saddam  s a d d a n
 saeb  s a e b
 saed  s a e d
 sagrado  s a g r a d o
@@ -20065,7 +20065,7 @@ salí  s a l i
 salía  s a l i a 
 salían  s a l i a n 
 salón  s a l o n 
-sam  s a m
+sam  s a n
 samaniego  s a m a n y e g o
 samantha  s a m a n t a
 samara  s a m a r a
@@ -20169,18 +20169,18 @@ savia  s a b y a
 savimbi  s a b i m b i
 sayegh  s a y e g
 saúl  s a U l 
-scags  s k a g s
-scalfara  s k a l f a r a
-schilling  s ch i ll i n g
-schlein  s ch l e I n
-schoffman  s ch o f f m a n
-schreiber  s ch r e I b e r
-schulenburg  s ch u l e n b u r g
-schultz  s ch u l t z
-schuster  s ch u s t e r
-schwartzenegger  s ch w a r t s e n e g h e r
-scott  s k o t t
-scotty  s k o t t i
+scags  e s k a g s
+scalfara  e s k a l f a r a
+schilling  e s ch i ll i n g
+schlein  e s ch l e I n
+schoffman  e s ch o f f m a n
+schreiber  e s ch r e I b e r
+schulenburg  e s ch u l e n b u r g
+schultz  e s ch u l t z
+schuster  e s ch u s t e r
+schwartzenegger  e s ch w a r t s e n e g h e r
+scott  e s k o t t
+scotty  e s k o t t i
 se  s e
 sea  s e a
 seamos  s e a m o s
@@ -20498,7 +20498,7 @@ seúl  s e u l
 shaffer  s a f f e r
 shahak  s a a k
 shaikh  s a I k
-shalem  s a l e m
+shalem  s a l e n
 shamil  s a m i l
 shane  s a n e
 sharif  s a r i f
@@ -20700,12 +20700,12 @@ sitúan  s i t u a n
 sixto  s i k s t o
 siéntate  s y e n t a t e
 siéntese  s y e n t e s e
-skaggs  s k a g g s
-slam  s l a m
-slobodan  s l o b o d a n
-smarth  s m a r t
-smith  s m i t
-smog  s m o g
+skaggs  e s k a g g s
+slam  e s l a n
+slobodan  e s l o b o d a n
+smarth  e s m a r t
+smith  e s m i t
+smog  e s m o g
 so  s o
 sob  s o b
 soberana  s o b e r a n a
@@ -20955,48 +20955,48 @@ soñar  s o gn a r
 soñara  s o gn a r a 
 soñolienta  s o gn o l y e n t a
 soñó  s o gn o 
-spectra  s p e k t r a
-speed  s p e e d
-spektr  s p e k t r
-spencer  s p e n z e r
-spicer  s p i z e r
-spike  s p i k e
-spiritus  s p i r i t u s
-spokane  s p o k a n e
-sporting  s p o r t i n g
-spresar  s p r e s a r
-spring  s p r i n g
-springfield  s p r i n g f y e l d
-spíritus  s p i r i t u s 
-sr  s r
-srta  s r t a
-stalin  s t a l i n
-stan  s t a n
-stanford  s t a n f o r d
-stanley  s t a n l e I
-star  s t a r
-starr  s t a rr
-status  s t a t u s
-ste  s t e
-steffi  s t e f f i
-stein  s t e I n
-stella  s t e ll a
-stephan  s t e p a n
-stephanie  s t e p a n y e
-stephen  s t e p e n
-sterling  s t e r l i n g
-stern  s t e r n
-stet  s t e t
-steve  s t e b e
-steven  s t e b e n
-stevenson  s t e b e n s o n
-stevie  s t e b y e
-stocic  s t o z i k
-stoyanov  s t o y a n o b
-street  s t r e e t
-stricker  s t r i k k e r
-stroessner  s t r o e s s n e r
-styron  s t i r o n
+spectra  e s p e k t r a
+speed  e s p e e d
+spektr  e s p e k t r
+spencer  e s p e n z e r
+spicer  e s p i z e r
+spike  e s p i k e
+spiritus  e s p i r i t u s
+spokane  e s p o k a n e
+sporting  e s p o r t i n g
+spresar  e s p r e s a r
+spring  e s p r i n g
+springfield  e s p r i n g f y e l d
+spíritus  e s p i r i t u s 
+sr  e s r
+srta  e s r t a
+stalin  e s t a l i n
+stan  e s t a n
+stanford  e s t a n f o r d
+stanley  e s t a n l e I
+star  e s t a r
+starr  e s t a rr
+status  e s t a t u s
+ste  e s t e
+steffi  e s t e f f i
+stein  e s t e I n
+stella  e s t e ll a
+stephan  e s t e p a n
+stephanie  e s t e p a n y e
+stephen  e s t e p e n
+sterling  e s t e r l i n g
+stern  e s t e r n
+stet  e s t e t
+steve  e s t e b e
+steven  e s t e b e n
+stevenson  e s t e b e n s o n
+stevie  e s t e b y e
+stocic  e s t o z i k
+stoyanov  e s t o y a n o b
+street  e s t r e e t
+stricker  e s t r i k k e r
+stroessner  e s t r o e s s n e r
+styron  e s t i r o n
 su  s u
 suave  s w a b e
 suaves  s w a b e s
@@ -21450,7 +21450,7 @@ talla  t a ll a
 tallas  t a ll a s
 taller  t a ll e r
 talleres  t a ll e r e s
-tam  t a m
+tam  t a n
 tamaulipas  t a m a U l i p a s
 tamayo  t a m a y o
 tamaño  t a m a gn o 
@@ -21557,7 +21557,7 @@ tejido  t e h i d o
 tejidos  t e h i d o s
 tel  t e l
 tela  t e l a
-telecom  t e l e k o m
+telecom  t e l e k o n
 telecomunicaciones  t e l e k o m u n i k a z y o n e s
 teleconferencia  t e l e k o n f e r e n z y a
 telefonistas  t e l e f o n i s t a s
@@ -21810,7 +21810,7 @@ tifus  t i f u s
 tigre  t i g r e
 tigres  t i g r e s
 tijuana  t i h w a n a
-tim  t i m
+tim  t i n
 times  t i m e s
 timidez  t i m i d e z
 timonel  t i m o n e l
@@ -21882,7 +21882,7 @@ tolerar  t o l e r a r
 toleraremos  t o l e r a r e m o s
 tolere  t o l e r e
 toluca  t o l u k a
-tom  t o m
+tom  t o n
 toma  t o m a
 tomada  t o m a d a
 tomadas  t o m a d a s
@@ -22292,9 +22292,9 @@ tucker  t u k k e r
 tucsón  t u k s o n 
 tudjman  t u d h m a n
 tula  t u l a
-tulkarm  t u l k a r m
+tulkarm  t u l k a r n
 tulsa  t u l s a
-tulum  t u l u m
+tulum  t u l u n
 tumba  t u m b a
 tumbar  t u m b a r
 tumbas  t u m b a s
@@ -22411,10 +22411,10 @@ ultiman  u l t i m a n
 ultimarse  u l t i m a r s e
 ultiminio  u l t i m i n y o
 ultimo  u l t i m o
-ultimátum  u l t i m a t u m 
+ultimátum  u l t i m a t u n
 ultra  u l t r a
 uluzárraga  u l u z a rr a g a 
-um  u m
+um  u n
 umbral  u m b r a l
 un  u n
 una  u n a
@@ -22955,7 +22955,7 @@ vientos  b y e n t o s
 viera  b y e r a
 viernes  b y e r n e s
 vieron  b y e r o n
-vietnam  b y e t n a m
+vietnam  b y e t n a n
 vietnamitas  b y e t n a m i t a s
 view  b y e u
 vigencia  b i h e n z y a
@@ -23295,13 +23295,13 @@ white  w i t e
 wilbur  w i l b u r
 wilfredo  w i l f r e d o
 will  w i ll
-willem  w i ll e m
+willem  w i ll e n
 willer  w i ll e r
-william  w i ll i a m
+william  w i ll i a n
 williams  w i ll i a m s
 willie  w i ll i e
 wilson  w i l s o n
-wim  w i m
+wim  w i n
 wiricker  w i r i k k e r
 wisconsin  w i s k o n s i n
 with  w i t
@@ -23350,7 +23350,7 @@ york  y o r k
 yossi  y o s s i
 you  y o u
 young  y o u n g
-youngsam  y o u n g s a m
+youngsam  y o u n g s a n
 your  y o u r
 yucatán  y u k a t a n 
 yugoslavia  y u g o s l a b y a
