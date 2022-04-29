@@ -24,7 +24,7 @@ abarcado  a b a r k a d o
 abarcadores  a b a r k a d o r e s
 abarcan  a b a r k a n
 abarcar  a b a r k a r
-abarcarían  a b a r k a r i a n 
+abarcarían  a b a r k a r i a n
 abarque  a b a r k e
 abarrotando  a b a rr o t a n d o
 abasolo  a b a s o l o
@@ -411,7 +411,7 @@ acústico  a s u s t i k o
 acústicos  a k u s t i k o s 
 adalid  a d a l i d
 adam  a d a n
-adams  a d a m s
+adams  a d a n s
 adapta  a d a p t a
 adaptación  a d a p t a z y o n 
 adaptado  a d a p t a d o
@@ -1230,7 +1230,7 @@ amplíe  a m p l i e
 ampollas  a m p o ll a s
 amputaciones  a m p u t a z y o n e s
 amputado  a m p u t a d o
-amsterdam  a m s t e r d a n
+amsterdam  a n s t e r d a n
 amurallada  a m u r a ll a d a
 amy  a m i
 amán  a m a n 
@@ -1300,9 +1300,9 @@ andábamos  a n d a b a m o s
 anexión  a n e k s y o n 
 anexo  a n e k s o
 anexó  a n e k s o 
-anfiteatro  a n f i t e a t r o
-anfitriones  a n f i t r i o n e s
-anfitrión  a n f i t r i o n 
+anfiteatro  a m f i t e a t r o
+anfitriones  a m f i t r i o n e s
+anfitrión  a m f i t r i o n 
 angel  a n h e l
 angela  a n h e l a
 angeles  a n h e l e s
@@ -2571,7 +2571,7 @@ ballén  b a ll e n
 balneario  b a l n e a r y o
 balompié  b a l o m p y e 
 baloncesto  b a l o n z e s t o
-balonpié  b a l o n p y e 
+balonpié  b a l o m p y e 
 balseros  b a l s e r o s
 baltazar  b a l t a z a r
 baltimore  b a l t i m o r e
@@ -2811,9 +2811,9 @@ bid  b i d
 bien  b y e n
 bienes  b y e n e s
 bienestar  b y e n e s t a r
-bienvenida  b y e n b e n i d a
-bienvenido  b y e n b e n i d o
-bienvenidos  b y e n b e n i d o s
+bienvenida  b y e m b e n i d a
+bienvenido  b y e m b e n i d o
+bienvenidos  b y e m b e n i d o s
 big  b i g
 bilateral  b i l a t e r a l
 bilaterales  b i l a t e r a l e s
@@ -3053,7 +3053,7 @@ brooke  b r o o k e
 brote  b r o t e
 brotes  b r o t e s
 brown  b r o u n
-brownback  b r o u n b a k k
+brownback  b r o u m b a k k
 broz  b r o z
 brozny  b r o z n i
 bruce  b r u z e
@@ -3099,7 +3099,7 @@ bulgnes  b u l g n e s
 bulla  b u ll a
 bullock  b u ll o k k
 bulls  b u ll s
-bums  b u m s
+bums  b u n s
 bundensbank  b u n d e n s b a n k
 bunnington  b u n n i n g t o n
 buque  b u k e
@@ -3369,7 +3369,7 @@ camboya  k a m b o y a
 camboyana  k a m b o y a n a
 camboyano  k a m b o y a n o
 cambridge  k a m b r i d h e
-camden  k a m d e n
+camden  k a n d e n
 camelia  k a m e l y a
 camello  k a m e ll o
 cameron  k a m e r o n
@@ -4063,7 +4063,7 @@ cielos  z y e l o s
 cien  z y e n
 ciencia  z y e n z y a
 ciencias  z y e n z y a s
-cienfuegos  z y e n f w e g o s
+cienfuegos  z y e m f w e g o s
 ciento  z y e n t o
 cientos  z y e n t o s
 científica  z y e n t i f i k a 
@@ -4828,83 +4828,83 @@ conejo  k o n e h o
 conejos  k o n e h o s
 conexiones  k o n e k s y o n e s
 conexión  k o n e k s y o n 
-confeccionada  k o n f e k z y o n a d a
-confeccionado  k o n f e k z y o n a d o
-confederación  k o n f e d e r a z y o n 
-conferencia  k o n f e r e n z y a
-conferencias  k o n f e r e n z y a s
-confesar  k o n f e s a r
-confesaron  k o n f e s a r o n
-confesión  k o n f e s y o n 
-confesó  k o n f e s o 
-confiaba  k o n f y a b a
-confiada  k o n f y a d a
-confiadas  k o n f y a d a s
-confiado  k o n f y a d o
-confiamos  k o n f y a m o s
-confianza  k o n f y a n z a
-confiar  k o n f y a r
-confiarse  k o n f y a r s e
-confidencial  k o n f i d e n z y a l
-confidenciales  k o n f i d e n z y a l e s
-confidencialidad  k o n f i d e n z y a l i d a d
-confiesa  k o n f y e s a
-confinada  k o n f i n a d a
-confinado  k o n f i n a d o
-confinados  k o n f i n a d o s
-confinamiento  k o n f i n a m y e n t o
-confinarla  k o n f i n a r l a
-confines  k o n f i n e s
-confirma  k o n f i r m a
-confirmación  k o n f i r m a z y o n 
-confirmada  k o n f i r m a d a
-confirmadas  k o n f i r m a d a s
-confirmado  k o n f i r m a d o
-confirman  k o n f i r m a n
-confirmando  k o n f i r m a n d o
-confirmar  k o n f i r m a r
-confirmaron  k o n f i r m a r o n
-confirmará  k o n f i r m a r a 
-confirmó  k o n f i r m o 
-confiscada  k o n f i s k a d a
-confiscadas  k o n f i s k a d a s
-confiscado  k o n f i s k a d o
-confiscar  k o n f i s k a r
-confiscaron  k o n f i s k a r o n
-confisque  k o n f i s k e
-conflictiva  k o n f l i k t i b a
-conflictivas  k o n f l i k t i b a s
-conflictivo  k o n f l i k t i b o
-conflicto  k o n f l i k t o
-conflictos  k o n f l i k t o s
-conformaciones  k o n f o r m a z y o n e s
-conformación  k o n f o r m a z y o n 
-conformada  k o n f o r m a d a
-conforman  k o n f o r m a n
-conformar  k o n f o r m a r
-conformarse  k o n f o r m a r s e
-conforme  k o n f o r m e
-conformidad  k o n f o r m i d a d
-confrontaciones  k o n f r o n t a z y o n e s
-confrontación  k o n f r o n t a z y o n 
-confrontada  k o n f r o n t a d a
-confrontar  k o n f r o n t a r
-confrontaron  k o n f r o n t a r o n
-confrontarse  k o n f r o n t a r s e
-confunden  k o n f u n d e n
-confundido  k o n f u n d i d o
-confundidos  k o n f u n d i d o s
-confundir  k o n f u n d i r
-confundirse  k o n f u n d i r s e
-confundió  k o n f u n d y o 
-confusas  k o n f u s a s
-confusión  k o n f u s y o n 
-confuso  k o n f u s o
-confusos  k o n f u s o s
-confía  k o n f i a 
-confían  k o n f i a n 
-confías  k o n f i a s
-confío  k o n f y o
+confeccionada  k o m f e k z y o n a d a
+confeccionado  k o m f e k z y o n a d o
+confederación  k o m f e d e r a z y o n 
+conferencia  k o m f e r e n z y a
+conferencias  k o m f e r e n z y a s
+confesar  k o m f e s a r
+confesaron  k o m f e s a r o n
+confesión  k o m f e s y o n 
+confesó  k o m f e s o 
+confiaba  k o m f y a b a
+confiada  k o m f y a d a
+confiadas  k o m f y a d a s
+confiado  k o m f y a d o
+confiamos  k o m f y a m o s
+confianza  k o m f y a n z a
+confiar  k o m f y a r
+confiarse  k o m f y a r s e
+confidencial  k o m f i d e n z y a l
+confidenciales  k o m f i d e n z y a l e s
+confidencialidad  k o m f i d e n z y a l i d a d
+confiesa  k o m f y e s a
+confinada  k o m f i n a d a
+confinado  k o m f i n a d o
+confinados  k o m f i n a d o s
+confinamiento  k o m f i n a m y e n t o
+confinarla  k o m f i n a r l a
+confines  k o m f i n e s
+confirma  k o m f i r m a
+confirmación  k o m f i r m a z y o n 
+confirmada  k o m f i r m a d a
+confirmadas  k o m f i r m a d a s
+confirmado  k o m f i r m a d o
+confirman  k o m f i r m a n
+confirmando  k o m f i r m a n d o
+confirmar  k o m f i r m a r
+confirmaron  k o m f i r m a r o n
+confirmará  k o m f i r m a r a 
+confirmó  k o m f i r m o 
+confiscada  k o m f i s k a d a
+confiscadas  k o m f i s k a d a s
+confiscado  k o m f i s k a d o
+confiscar  k o m f i s k a r
+confiscaron  k o m f i s k a r o n
+confisque  k o m f i s k e
+conflictiva  k o m f l i k t i b a
+conflictivas  k o m f l i k t i b a s
+conflictivo  k o m f l i k t i b o
+conflicto  k o m f l i k t o
+conflictos  k o m f l i k t o s
+conformaciones  k o m f o r m a z y o n e s
+conformación  k o m f o r m a z y o n 
+conformada  k o m f o r m a d a
+conforman  k o m f o r m a n
+conformar  k o m f o r m a r
+conformarse  k o m f o r m a r s e
+conforme  k o m f o r m e
+conformidad  k o m f o r m i d a d
+confrontaciones  k o m f r o n t a z y o n e s
+confrontación  k o m f r o n t a z y o n 
+confrontada  k o m f r o n t a d a
+confrontar  k o m f r o n t a r
+confrontaron  k o m f r o n t a r o n
+confrontarse  k o m f r o n t a r s e
+confunden  k o m f u n d e n
+confundido  k o m f u n d i d o
+confundidos  k o m f u n d i d o s
+confundir  k o m f u n d i r
+confundirse  k o m f u n d i r s e
+confundió  k o m f u n d y o 
+confusas  k o m f u s a s
+confusión  k o m f u s y o n 
+confuso  k o m f u s o
+confusos  k o m f u s o s
+confía  k o m f i a 
+confían  k o m f i a n 
+confías  k o m f i a s
+confío  k o m f y o
 congelada  k o n h e l a d a
 congeladas  k o n h e l a d a s
 congeladora  k o n h e l a d o r a
@@ -5350,74 +5350,74 @@ controvirtió  k o n t r o b i r t y o
 contundente  k o n t u n d e n t e
 contó  k o n t o 
 conurbado  k o n u r b a d o
-convalecencia  k o n b a l e z e n z y a
-convaleciendo  k o n b a l e z y e n d o
-convencer  k o n b e n z e r
-convencerlos  k o n b e n z e r l o s
-convencida  k o n b e n z i d a
-convencidas  k o n b e n z i d a s
-convencido  k o n b e n z i d o
-convencidos  k o n b e n z i d o s
-convencionales  k o n b e n z y o n a l e s
-convenciones  k o n b e n z y o n e s
-convención  k o n b e n z y o n 
-convendría  k o n b e n d r i a 
-convenga  k o n b e n g a
-convenido  k o n b e n i d o
-conveniencia  k o n b e n y e n z y a
-conveniente  k o n b e n y e n t e
-convenientes  k o n b e n y e n t e s
-convenio  k o n b e n y o
-convenios  k o n b e n y o s
-convenir  k o n b e n i r
-convergencia  k o n b e r h e n z y a
-conversaciones  k o n b e r s a z y o n e s
-conversación  k o n b e r s a z y o n 
-conversamos  k o n b e r s a m o s
-conversan  k o n b e r s a n
-conversar  k o n b e r s a r
-conversaron  k o n b e r s a r o n
-conversará  k o n b e r s a r a 
-conversión  k o n b e r s y o n 
-conversábamos  k o n b e r s a b a m o s 
-conversó  k o n b e r s o 
-convertida  k o n b e r t i d a
-convertido  k o n b e r t i d o
-convertir  k o n b e r t i r
-convertirlo  k o n b e r t i r l o
-convertirse  k o n b e r t i r s e
-convertirá  k o n b e r t i r a 
-convertiría  k o n b e r t i r i a 
-convicciones  k o n b i k z y o n e s
-convicción  k o n b i k z y o n 
-convicto  k o n b i k t o
-convictos  k o n b i k t o s
-convidar  k o n b i d a r
-conviene  k o n b y e n e
-convierta  k o n b y e r t a
-conviertan  k o n b y e r t a n
-convierte  k o n b y e r t e
-convierten  k o n b y e r t e n
-convirtiendo  k o n b i r t y e n d o
-convirtiera  k o n b i r t y e r a
-convirtieron  k o n b i r t y e r o n
-convirtió  k o n b i r t y o 
-convivencia  k o n b i b e n z y a
-convivir  k o n b i b i r
-convocada  k o n b o k a d a
-convocadas  k o n b o k a d a s
-convocado  k o n b o k a d o
-convocados  k o n b o k a d o s
-convocar  k o n b o k a r
-convocaron  k o n b o k a r o n
-convocará  k o n b o k a r a 
-convocatoria  k o n b o k a t o r y a
-convocó  k o n b o k o 
-convoque  k o n b o k e
-convoy  k o n b o I
-convulsionada  k o n b u l s y o n a d a
-convulsionado  k o n b u l s y o n a d o
-convulsiones  k o n b u l s y o n e s
+convalecencia  k o m b a l e z e n z y a
+convaleciendo  k o m b a l e z y e n d o
+convencer  k o m b e n z e r
+convencerlos  k o m b e n z e r l o s
+convencida  k o m b e n z i d a
+convencidas  k o m b e n z i d a s
+convencido  k o m b e n z i d o
+convencidos  k o m b e n z i d o s
+convencionales  k o m b e n z y o n a l e s
+convenciones  k o m b e n z y o n e s
+convención  k o m b e n z y o n 
+convendría  k o m b e n d r i a 
+convenga  k o m b e n g a
+convenido  k o m b e n i d o
+conveniencia  k o m b e n y e n z y a
+conveniente  k o m b e n y e n t e
+convenientes  k o m b e n y e n t e s
+convenio  k o m b e n y o
+convenios  k o m b e n y o s
+convenir  k o m b e n i r
+convergencia  k o m b e r h e n z y a
+conversaciones  k o m b e r s a z y o n e s
+conversación  k o m b e r s a z y o n 
+conversamos  k o m b e r s a m o s
+conversan  k o m b e r s a n
+conversar  k o m b e r s a r
+conversaron  k o m b e r s a r o n
+conversará  k o m b e r s a r a 
+conversión  k o m b e r s y o n 
+conversábamos  k o m b e r s a b a m o s 
+conversó  k o m b e r s o 
+convertida  k o m b e r t i d a
+convertido  k o m b e r t i d o
+convertir  k o m b e r t i r
+convertirlo  k o m b e r t i r l o
+convertirse  k o m b e r t i r s e
+convertirá  k o m b e r t i r a 
+convertiría  k o m b e r t i r i a 
+convicciones  k o m b i k z y o n e s
+convicción  k o m b i k z y o n 
+convicto  k o m b i k t o
+convictos  k o m b i k t o s
+convidar  k o m b i d a r
+conviene  k o m b y e n e
+convierta  k o m b y e r t a
+conviertan  k o m b y e r t a n
+convierte  k o m b y e r t e
+convierten  k o m b y e r t e n
+convirtiendo  k o m b i r t y e n d o
+convirtiera  k o m b i r t y e r a
+convirtieron  k o m b i r t y e r o n
+convirtió  k o m b i r t y o 
+convivencia  k o m b i b e n z y a
+convivir  k o m b i b i r
+convocada  k o m b o k a d a
+convocadas  k o m b o k a d a s
+convocado  k o m b o k a d o
+convocados  k o m b o k a d o s
+convocar  k o m b o k a r
+convocaron  k o m b o k a r o n
+convocará  k o m b o k a r a 
+convocatoria  k o m b o k a t o r y a
+convocó  k o m b o k o 
+convoque  k o m b o k e
+convoy  k o m b o I
+convulsionada  k o m b u l s y o n a d a
+convulsionado  k o m b u l s y o n a d o
+convulsiones  k o m b u l s y o n e s
 cook  k o o k
 cooper  k o o p e r
 cooperaba  k o o p e r a b a
@@ -6044,7 +6044,7 @@ dang  d a n g
 daniel  d a n y e l
 danilo  d a n i l o
 danna  d a n n a
-dannenberg  d a n n e n b e r g
+dannenberg  d a n n e m b e r g
 danny  d a n n i
 danos  d a n o s
 dante  d a n t e
@@ -6488,7 +6488,7 @@ denunciaron  d e n u n z y a r o n
 denuncias  d e n u n z y a s
 denuncie  d e n u n z y e
 denunció  d e n u n z y o 
-denver  d e n b e r
+denver  d e m b e r
 denúncielas  d e n u n z y e l a s 
 depara  d e p a r a
 departamento  d e p a r t a m e n t o
@@ -6710,9 +6710,9 @@ desconecta  d e s k o n e k t a
 desconectados  d e s k o n e k t a d o s
 desconectar  d e s k o n e k t a r
 desconecte  d e s k o n e k t e
-desconfiando  d e s k o n f y a n d o
-desconfianza  d e s k o n f y a n z a
-desconfianzas  d e s k o n f y a n z a s
+desconfiando  d e s k o m f y a n d o
+desconfianza  d e s k o m f y a n z a
+desconfianzas  d e s k o m f y a n z a s
 descongelado  d e s k o n h e l a d o
 descongestionar  d e s k o n h e s t y o n a r
 desconoce  d e s k o n o z e
@@ -6796,9 +6796,9 @@ desencadenó  d e s e n k a d e n o
 desencanto  d e s e n k a n t o
 desenlace  d e s e n l a z e
 desenterrar  d e s e n t e rr a r
-desenvolver  d e s e n b o l b e r
-desenvolverme  d e s e n b o l b e r m e
-desenvolvimiento  d e s e n b o l b i m y e n t o
+desenvolver  d e s e m b o l b e r
+desenvolverme  d e s e m b o l b e r m e
+desenvolvimiento  d e s e m b o l b i m y e n t o
 deseo  d e s e o
 deseos  d e s e o s
 deseosos  d e s e o s o s
@@ -6859,8 +6859,8 @@ desigual  d e s i g w a l
 desigualdades  d e s i g w a l d a d e s
 desilusionada  d e s i l u s y o n a d a
 desincorporación  d e s i n k o r p o r a z y o n 
-desinformación  d e s i n f o r m a z y o n 
-desinformado  d e s i n f o r m a d o
+desinformación  d e s i m f o r m a z y o n 
+desinformado  d e s i m f o r m a d o
 desintegración  d e s i n t e g r a z y o n 
 desinteresados  d e s i n t e r e s a d o s
 desire  d e s i r e
@@ -7382,7 +7382,7 @@ disciplinaria  d i s z i p l i n a r y a
 disciplinarios  d i s z i p l i n a r y o s
 disco  d i s k o
 discográfica  d i s k o g r a f i k a 
-disconformes  d i s k o n f o r m e s
+disconformes  d i s k o m f o r m e s
 discos  d i s k o s
 discovery  d i s k o b e r i
 discrepancia  d i s k r e p a n z y a
@@ -7852,7 +7852,7 @@ echeverría  e ch e b e rr i a
 echo  e k o
 echó  e ch o 
 eco  e k o
-ecoconferencia  e k o k o n f e r e n z y a
+ecoconferencia  e k o k o m f e r e n z y a
 ecologista  e k o l o h i s t a
 ecología  e k o l o h i a 
 ecológicas  e k o l o h i k a s 
@@ -7935,7 +7935,7 @@ efectúa  e f e k t u a
 efectúan  e f e k t u a n 
 efectúen  e f e k t u e n 
 efedrina  e f e d r i n a
-effenberg  e f f e n b e r g
+effenberg  e f f e m b e r g
 efgeni  e f h e n i
 eficaces  e f i k a z e s
 eficacia  e f i k a z y a
@@ -8398,62 +8398,62 @@ energía  e n e r h i a
 energías  e n e r h i a s 
 enero  e n e r o
 enervante  e n e r b a n t e
-enfadada  e n f a d a d a
-enfadado  e n f a d a d o
-enfatiza  e n f a t i z a
-enfatizando  e n f a t i z a n d o
-enfatizar  e n f a t i z a r
-enfatizaron  e n f a t i z a r o n
-enfatizó  e n f a t i z o 
-enferma  e n f e r m a
-enfermaban  e n f e r m a b a n
-enfermado  e n f e r m a d o
-enfermaron  e n f e r m a r o n
-enfermarse  e n f e r m a r s e
-enfermas  e n f e r m a s
-enfermedad  e n f e r m e d a d
-enfermedades  e n f e r m e d a d e s
-enfermera  e n f e r m e r a
-enfermeras  e n f e r m e r a s
-enfermería  e n f e r m e r i a 
-enfermo  e n f e r m o
-enfermos  e n f e r m o s
-enfermó  e n f e r m o 
-enfisema  e n f i s e m a
-enfo  e n f o
-enfoca  e n f o k a
-enfocado  e n f o k a d o
-enfocados  e n f o k a d o s
-enfocamos  e n f o k a m o s
-enfocando  e n f o k a n d o
-enfocarnos  e n f o k a r n o s
-enfoque  e n f o k e
-enfrascados  e n f r a s k a d o s
-enfrenta  e n f r e n t a
-enfrentaba  e n f r e n t a b a
-enfrentaban  e n f r e n t a b a n
-enfrentado  e n f r e n t a d o
-enfrentados  e n f r e n t a d o s
-enfrentamiento  e n f r e n t a m y e n t o
-enfrentamientos  e n f r e n t a m y e n t o s
-enfrentamos  e n f r e n t a m o s
-enfrentan  e n f r e n t a n
-enfrentando  e n f r e n t a n d o
-enfrentar  e n f r e n t a r
-enfrentaron  e n f r e n t a r o n
-enfrentarse  e n f r e n t a r s e
-enfrentará  e n f r e n t a r a 
-enfrente  e n f r e n t e
-enfrenten  e n f r e n t e n
-enfrentó  e n f r e n t o 
-enfriamiento  e n f r i a m y e n t o
-enfrió  e n f r i o 
-enfurecer  e n f u r e z e r
-enfurecido  e n f u r e z i d o
-enfurecidos  e n f u r e z i d o s
-enfureció  e n f u r e z y o 
-enfática  e n f a t i k a 
-enfáticamente  e n f a t i k a m e n t e 
+enfadada  e m f a d a d a
+enfadado  e m f a d a d o
+enfatiza  e m f a t i z a
+enfatizando  e m f a t i z a n d o
+enfatizar  e m f a t i z a r
+enfatizaron  e m f a t i z a r o n
+enfatizó  e m f a t i z o 
+enferma  e m f e r m a
+enfermaban  e m f e r m a b a n
+enfermado  e m f e r m a d o
+enfermaron  e m f e r m a r o n
+enfermarse  e m f e r m a r s e
+enfermas  e m f e r m a s
+enfermedad  e m f e r m e d a d
+enfermedades  e m f e r m e d a d e s
+enfermera  e m f e r m e r a
+enfermeras  e m f e r m e r a s
+enfermería  e m f e r m e r i a 
+enfermo  e m f e r m o
+enfermos  e m f e r m o s
+enfermó  e m f e r m o 
+enfisema  e m f i s e m a
+enfo  e m f o
+enfoca  e m f o k a
+enfocado  e m f o k a d o
+enfocados  e m f o k a d o s
+enfocamos  e m f o k a m o s
+enfocando  e m f o k a n d o
+enfocarnos  e m f o k a r n o s
+enfoque  e m f o k e
+enfrascados  e m f r a s k a d o s
+enfrenta  e m f r e n t a
+enfrentaba  e m f r e n t a b a
+enfrentaban  e m f r e n t a b a n
+enfrentado  e m f r e n t a d o
+enfrentados  e m f r e n t a d o s
+enfrentamiento  e m f r e n t a m y e n t o
+enfrentamientos  e m f r e n t a m y e n t o s
+enfrentamos  e m f r e n t a m o s
+enfrentan  e m f r e n t a n
+enfrentando  e m f r e n t a n d o
+enfrentar  e m f r e n t a r
+enfrentaron  e m f r e n t a r o n
+enfrentarse  e m f r e n t a r s e
+enfrentará  e m f r e n t a r a 
+enfrente  e m f r e n t e
+enfrenten  e m f r e n t e n
+enfrentó  e m f r e n t o 
+enfriamiento  e m f r i a m y e n t o
+enfrió  e m f r i o 
+enfurecer  e m f u r e z e r
+enfurecido  e m f u r e z i d o
+enfurecidos  e m f u r e z i d o s
+enfureció  e m f u r e z y o 
+enfática  e m f a t i k a 
+enfáticamente  e m f a t i k a m e n t e 
 enganchó  e n g a n ch o 
 engañada  e n g a gn a d a 
 engañado  e n g a gn a d o 
@@ -8642,43 +8642,43 @@ enumera  e n u m e r a
 enumeró  e n u m e r o 
 enunciación  e n u n z y a z y o n 
 enunciados  e n u n z y a d o s
-envases  e n b a s e s
-envenenadas  e n b e n e n a d a s
-envenenados  e n b e n e n a d o s
-envenenamiento  e n b e n e n a m y e n t o
-envenenan  e n b e n e n a n
-envenenaron  e n b e n e n a r o n
-envergadura  e n b e r g a d u r a
-envestida  e n b e s t i d a
-envestido  e n b e s t i d o
-enviadas  e n b y a d a s
-enviado  e n b y a d o
-enviados  e n b y a d o s
-enviando  e n b y a n d o
-enviar  e n b y a r
-enviara  e n b y a r a
-enviaran  e n b y a r a n
-enviarles  e n b y a r l e s
-enviarlos  e n b y a r l o s
-enviaron  e n b y a r o n
-enviará  e n b y a r a 
-enviaré  e n b y a r e
-enviaría  e n b y a r y a 
-envida  e n b i d a
-envidia  e n b i d y a
-envié  e n b y e
-envió  e n b y o 
-envolvernos  e n b o l b e r n o s
-envolviendo  e n b o l b y e n d o
-envolviera  e n b o l b y e r a
-envolvió  e n b o l b y o 
-envuelto  e n b w e l t o
-envueltos  e n b w e l t o s
-envía  e n b i a 
-envían  e n b i a n 
-envíe  e n b y e 
-envío  e n b i o 
-envíos  e n b i o s 
+envases  e m b a s e s
+envenenadas  e m b e n e n a d a s
+envenenados  e m b e n e n a d o s
+envenenamiento  e m b e n e n a m y e n t o
+envenenan  e m b e n e n a n
+envenenaron  e m b e n e n a r o n
+envergadura  e m b e r g a d u r a
+envestida  e m b e s t i d a
+envestido  e m b e s t i d o
+enviadas  e m b y a d a s
+enviado  e m b y a d o
+enviados  e m b y a d o s
+enviando  e m b y a n d o
+enviar  e m b y a r
+enviara  e m b y a r a
+enviaran  e m b y a r a n
+enviarles  e m b y a r l e s
+enviarlos  e m b y a r l o s
+enviaron  e m b y a r o n
+enviará  e m b y a r a 
+enviaré  e m b y a r e
+enviaría  e m b y a r y a 
+envida  e m b i d a
+envidia  e m b i d y a
+envié  e m b y e
+envió  e m b y o 
+envolvernos  e m b o l b e r n o s
+envolviendo  e m b o l b y e n d o
+envolviera  e m b o l b y e r a
+envolvió  e m b o l b y o 
+envuelto  e m b w e l t o
+envueltos  e m b w e l t o s
+envía  e m b i a 
+envían  e m b i a n 
+envíe  e m b y e 
+envío  e m b i o 
+envíos  e m b i o s 
 enérgica  e n e r h i k a 
 enérgicamente  e n e r h i k a m e n t e 
 enérgico  e n e r h i k o 
@@ -10166,7 +10166,7 @@ franjo  f r a n h o
 frank  f r a n k
 frankie  f r a n k y e
 franklin  f r a n k l i n
-franpress  f r a n p r e s s
+franpress  f r a m p r e s s
 franqueza  f r a n k e z a
 franz  f r a n z
 frase  f r a s e
@@ -10670,7 +10670,7 @@ gordos  g o r d o s
 gore  g o r e
 gorjeos  g o r h e o s
 gorky  g o r k i
-gorlenben  g o r l e n b e n
+gorlenben  g o r l e m b e n
 gorostiza  g o r o s t i z a
 gorras  g o rr a s
 gortari  g o r t a r i
@@ -11025,7 +11025,7 @@ hamlet  a m l e t
 hammarberg  a m m a r b e r g
 hamobai  a m o b a I
 han  a n
-hanbo  a n b o
+hanbo  a m b o
 hangar  a n g a r
 hani  a n i
 hanibal  a n i b a l
@@ -11092,8 +11092,8 @@ helen  e l e n
 helena  e l e n a
 helicóptero  e l i k o p t e r o 
 helicópteros  e l i k o p t e r o s 
-helms  e l m s
-helmsburton  e l m s b u r t o n
+helms  e l n s
+helmsburton  e l n s b u r t o n
 helmut  e l m u t
 helsinki  e l s i n k i
 helvético  e l b e t i k o 
@@ -11722,18 +11722,18 @@ incomunicación  i n k o m u n i k a z y o n
 inconciencia  i n k o n s z y e n z y a
 inconclusa  i n k o n k l u s a
 incondicional  i n k o n d i z y o n a l
-inconformes  i n k o n f o r m e s
-inconformidad  i n k o n f o r m i d a d
-inconformidades  i n k o n f o r m i d a d e s
-inconfundible  i n k o n f u n d i b l e
+inconformes  i n k o m f o r m e s
+inconformidad  i n k o m f o r m i d a d
+inconformidades  i n k o m f o r m i d a d e s
+inconfundible  i n k o m f u n d i b l e
 incongruencias  i n k o n g r u e n z y a s
 inconsecuencia  i n k o n s e k w e n z y a
 inconstitucional  i n k o n s t i t u z y o n a l
 inconstitucionalidad  i n k o n s t i t u z y o n a l i d a d
 incontrolables  i n k o n t r o l a b l e s
 incontrolado  i n k o n t r o l a d o
-inconveniente  i n k o n b e n y e n t e
-inconvenientes  i n k o n b e n y e n t e s
+inconveniente  i n k o m b e n y e n t e
+inconvenientes  i n k o m b e n y e n t e s
 incorporación  i n k o r p o r a z y o n 
 incorporada  i n k o r p o r a d a
 incorporan  i n k o r p o r a n
@@ -11878,94 +11878,94 @@ inevitables  i n e b i t a b l e s
 inexistente  i n e k s i s t e n t e
 inexorable  i n e k s o r a b l e
 inexplicable  i n e k s p l i k a b l e
-inf  i n f
-infamemente  i n f a m e m e n t e
-infames  i n f a m e s
-infancia  i n f a n z y a
-infante  i n f a n t e
-infantería  i n f a n t e r i a 
-infantes  i n f a n t e s
-infanticidio  i n f a n t i z i d y o
-infantil  i n f a n t i l
-infantiles  i n f a n t i l e s
-infarto  i n f a r t o
-infecciones  i n f e k z y o n e s
-infecciosas  i n f e k z y o s a s
-infección  i n f e k z y o n 
-infectados  i n f e k t a d o s
-infectocontagiosas  i n f e k t o k o n t a h y o s a s
-infeliz  i n f e l i z
-inferior  i n f e r y o r
-infierno  i n f y e r n o
-infiltración  i n f i l t r a z y o n 
-infiltrado  i n f i l t r a d o
-infiltrados  i n f i l t r a d o s
-infiltraron  i n f i l t r a r o n
-infinidad  i n f i n i d a d
-infinitas  i n f i n i t a s
-infinito  i n f i n i t o
-infinitos  i n f i n i t o s
-inflacionaria  i n f l a z y o n a r y a
-inflación  i n f l a z y o n 
-inflama  i n f l a m a
-inflamadas  i n f l a m a d a s
-inflexible  i n f l e k s i b l e
-influencia  i n f l u e n z y a
-influenciados  i n f l u e n z y a d o s
-influencias  i n f l u e n z y a s
-influir  i n f l u i r
-influjo  i n f l u h o
-influyente  i n f l u y e n t e
-influyentes  i n f l u y e n t e s
-influyó  i n f l u y o 
-infonavit  i n f o n a b i t
-informa  i n f o r m a
-informaba  i n f o r m a b a
-informaciones  i n f o r m a z y o n e s
-información  i n f o r m a z y o n 
-informada  i n f o r m a d a
-informado  i n f o r m a d o
-informadores  i n f o r m a d o r e s
-informados  i n f o r m a d o s
-informal  i n f o r m a l
-informamos  i n f o r m a m o s
-informan  i n f o r m a n
-informando  i n f o r m a n d o
-informante  i n f o r m a n t e
-informantes  i n f o r m a n t e s
-informar  i n f o r m a r
-informaremos  i n f o r m a r e m o s
-informarle  i n f o r m a r l e
-informarles  i n f o r m a r l e s
-informaron  i n f o r m a r o n
-informarse  i n f o r m a r s e
-informará  i n f o r m a r a 
-informaría  i n f o r m a r i a 
-informativa  i n f o r m a t i b a
-informativo  i n f o r m a t i b o
-informativos  i n f o r m a t i b o s
-informe  i n f o r m e
-informes  i n f o r m e s
-informo  i n f o r m o
-informábamos  i n f o r m a b a m o s 
-informándole  i n f o r m a n d o l e 
-informándose  i n f o r m a n d o s e 
-informáticos  i n f o r m a t i k o s 
-informé  i n f o r m e 
-informó  i n f o r m o 
-infracción  i n f r a k z y o n 
-infractor  i n f r a k t o r
-infraestructura  i n f r a e s t r u k t u r a
-infraestructuras  i n f r a e s t r u k t u r a s
-infrahumanas  i n f r a U m a n a s
-infrarrojos  i n f r a rr o h o s
-infructuosa  i n f r u k t w o s a
-infructuosamente  i n f r u k t w o s a m e n t e
-infructífera  i n f r u k t i f e r a 
-infundadas  i n f u n d a d a s
-infunde  i n f u n d e
-infunden  i n f u n d e n
-infundio  i n f u n d y o
+inf  i m f
+infamemente  i m f a m e m e n t e
+infames  i m f a m e s
+infancia  i m f a n z y a
+infante  i m f a n t e
+infantería  i m f a n t e r i a 
+infantes  i m f a n t e s
+infanticidio  i m f a n t i z i d y o
+infantil  i m f a n t i l
+infantiles  i m f a n t i l e s
+infarto  i m f a r t o
+infecciones  i m f e k z y o n e s
+infecciosas  i m f e k z y o s a s
+infección  i m f e k z y o n 
+infectados  i m f e k t a d o s
+infectocontagiosas  i m f e k t o k o n t a h y o s a s
+infeliz  i m f e l i z
+inferior  i m f e r y o r
+infierno  i m f y e r n o
+infiltración  i m f i l t r a z y o n 
+infiltrado  i m f i l t r a d o
+infiltrados  i m f i l t r a d o s
+infiltraron  i m f i l t r a r o n
+infinidad  i m f i n i d a d
+infinitas  i m f i n i t a s
+infinito  i m f i n i t o
+infinitos  i m f i n i t o s
+inflacionaria  i m f l a z y o n a r y a
+inflación  i m f l a z y o n 
+inflama  i m f l a m a
+inflamadas  i m f l a m a d a s
+inflexible  i m f l e k s i b l e
+influencia  i m f l u e n z y a
+influenciados  i m f l u e n z y a d o s
+influencias  i m f l u e n z y a s
+influir  i m f l u i r
+influjo  i m f l u h o
+influyente  i m f l u y e n t e
+influyentes  i m f l u y e n t e s
+influyó  i m f l u y o 
+infonavit  i m f o n a b i t
+informa  i m f o r m a
+informaba  i m f o r m a b a
+informaciones  i m f o r m a z y o n e s
+información  i m f o r m a z y o n 
+informada  i m f o r m a d a
+informado  i m f o r m a d o
+informadores  i m f o r m a d o r e s
+informados  i m f o r m a d o s
+informal  i m f o r m a l
+informamos  i m f o r m a m o s
+informan  i m f o r m a n
+informando  i m f o r m a n d o
+informante  i m f o r m a n t e
+informantes  i m f o r m a n t e s
+informar  i m f o r m a r
+informaremos  i m f o r m a r e m o s
+informarle  i m f o r m a r l e
+informarles  i m f o r m a r l e s
+informaron  i m f o r m a r o n
+informarse  i m f o r m a r s e
+informará  i m f o r m a r a 
+informaría  i m f o r m a r i a 
+informativa  i m f o r m a t i b a
+informativo  i m f o r m a t i b o
+informativos  i m f o r m a t i b o s
+informe  i m f o r m e
+informes  i m f o r m e s
+informo  i m f o r m o
+informábamos  i m f o r m a b a m o s 
+informándole  i m f o r m a n d o l e 
+informándose  i m f o r m a n d o s e 
+informáticos  i m f o r m a t i k o s 
+informé  i m f o r m e 
+informó  i m f o r m o 
+infracción  i m f r a k z y o n 
+infractor  i m f r a k t o r
+infraestructura  i m f r a e s t r u k t u r a
+infraestructuras  i m f r a e s t r u k t u r a s
+infrahumanas  i m f r a U m a n a s
+infrarrojos  i m f r a rr o h o s
+infructuosa  i m f r u k t w o s a
+infructuosamente  i m f r u k t w o s a m e n t e
+infructífera  i m f r u k t i f e r a 
+infundadas  i m f u n d a d a s
+infunde  i m f u n d e
+infunden  i m f u n d e n
+infundio  i m f u n d y o
 ingeniera  i n h e n y e r a
 ingeniero  i n h e n y e r o
 ingeniería  i n h e n y e r i a 
@@ -12420,89 +12420,89 @@ inundaron  i n u n d a r o n
 inusitado  i n u s i t a d o
 inusual  i n u s w a l
 inutilizado  i n u t i l i z a d o
-invade  i n b a d e
-invadidas  i n b a d i d a s
-invadidos  i n b a d i d o s
-invadieron  i n b a d y e r o n
-invadirlo  i n b a d i r l o
-invalidaron  i n b a l i d a r o n
-invariable  i n b a r y a b l e
-invariablemente  i n b a r y a b l e m e n t e
-invasión  i n b a s y o n 
-invasores  i n b a s o r e s
-inventado  i n b e n t a d o
-inventar  i n b e n t a r
-inventiva  i n b e n t i b a
-inventor  i n b e n t o r
-inventos  i n b e n t o s
-inventó  i n b e n t o 
-invernadero  i n b e r n a d e r o
-invernáculo  i n b e r n a k u l o
-inversiones  i n b e r s y o n e s
-inversionista  i n b e r s y o n i s t a
-inversionistas  i n b e r s y o n i s t a s
-inversión  i n b e r s y o n 
-inversores  i n b e r s o r e s
-invertido  i n b e r t i d o
-invertidos  i n b e r t i d o s
-invertir  i n b e r t i r
-invertirán  i n b e r t i r a n 
-investcom  i n b e s t k o n
-investidura  i n b e s t i d u r a
-investiga  i n b e s t i g a
-investigaciones  i n b e s t i g a z y o n e s
-investigación  i n b e s t i g a z y o n 
-investigadas  i n b e s t i g a d a s
-investigado  i n b e s t i g a d o
-investigador  i n b e s t i g a d o r
-investigadores  i n b e s t i g a d o r e s
-investigados  i n b e s t i g a d o s
-investigamos  i n b e s t i g a m o s
-investigan  i n b e s t i g a n
-investigando  i n b e s t i g a n d o
-investigar  i n b e s t i g a r
-investigaran  i n b e s t i g a r a n
-investigará  i n b e s t i g a r a 
-investigue  i n b e s t i g e
-investiguen  i n b e s t i g e n
-investigó  i n b e s t i g o 
-invi  i n b i
-inviable  i n b y a b l e
-invicto  i n b i k t o
-invierno  i n b y e r n o
-invierte  i n b y e r t e
-invierten  i n b y e r t e n
-invirtieron  i n b i r t y e r o n
-invirtió  i n b i r t y o 
-invisible  i n b i s i b l e
-invita  i n b i t a
-invitaciones  i n b i t a z y o n e s
-invitación  i n b i t a z y o n 
-invitada  i n b i t a d a
-invitadas  i n b i t a d a s
-invitado  i n b i t a d o
-invitados  i n b i t a d o s
-invitamos  i n b i t a m o s
-invitan  i n b i t a n
-invitar  i n b i t a r
-invitará  i n b i t a r a 
-invito  i n b i t o
-invitó  i n b i t o 
-invocación  i n b o k a z y o n 
-involución  i n b o l u z y o n 
-involucra  i n b o l u k r a
-involucraba  i n b o l u k r a b a
-involucrada  i n b o l u k r a d a
-involucradas  i n b o l u k r a d a s
-involucrado  i n b o l u k r a d o
-involucrados  i n b o l u k r a d o s
-involucramiento  i n b o l u k r a m y e n t o
-involucran  i n b o l u k r a n
-involucrar  i n b o l u k r a r
-involucrarse  i n b o l u k r a r s e
-involuntario  i n b o l u n t a r y o
-involuntarios  i n b o l u n t a r y o s
-inválidos  i n b a l i d o s 
+invade  i m b a d e
+invadidas  i m b a d i d a s
+invadidos  i m b a d i d o s
+invadieron  i m b a d y e r o n
+invadirlo  i m b a d i r l o
+invalidaron  i m b a l i d a r o n
+invariable  i m b a r y a b l e
+invariablemente  i m b a r y a b l e m e n t e
+invasión  i m b a s y o n 
+invasores  i m b a s o r e s
+inventado  i m b e n t a d o
+inventar  i m b e n t a r
+inventiva  i m b e n t i b a
+inventor  i m b e n t o r
+inventos  i m b e n t o s
+inventó  i m b e n t o 
+invernadero  i m b e r n a d e r o
+invernáculo  i m b e r n a k u l o
+inversiones  i m b e r s y o n e s
+inversionista  i m b e r s y o n i s t a
+inversionistas  i m b e r s y o n i s t a s
+inversión  i m b e r s y o n 
+inversores  i m b e r s o r e s
+invertido  i m b e r t i d o
+invertidos  i m b e r t i d o s
+invertir  i m b e r t i r
+invertirán  i m b e r t i r a n 
+investcom  i m b e s t k o n
+investidura  i m b e s t i d u r a
+investiga  i m b e s t i g a
+investigaciones  i m b e s t i g a z y o n e s
+investigación  i m b e s t i g a z y o n 
+investigadas  i m b e s t i g a d a s
+investigado  i m b e s t i g a d o
+investigador  i m b e s t i g a d o r
+investigadores  i m b e s t i g a d o r e s
+investigados  i m b e s t i g a d o s
+investigamos  i m b e s t i g a m o s
+investigan  i m b e s t i g a n
+investigando  i m b e s t i g a n d o
+investigar  i m b e s t i g a r
+investigaran  i m b e s t i g a r a n
+investigará  i m b e s t i g a r a 
+investigue  i m b e s t i g e
+investiguen  i m b e s t i g e n
+investigó  i m b e s t i g o 
+invi  i m b i
+inviable  i m b y a b l e
+invicto  i m b i k t o
+invierno  i m b y e r n o
+invierte  i m b y e r t e
+invierten  i m b y e r t e n
+invirtieron  i m b i r t y e r o n
+invirtió  i m b i r t y o 
+invisible  i m b i s i b l e
+invita  i m b i t a
+invitaciones  i m b i t a z y o n e s
+invitación  i m b i t a z y o n 
+invitada  i m b i t a d a
+invitadas  i m b i t a d a s
+invitado  i m b i t a d o
+invitados  i m b i t a d o s
+invitamos  i m b i t a m o s
+invitan  i m b i t a n
+invitar  i m b i t a r
+invitará  i m b i t a r a 
+invito  i m b i t o
+invitó  i m b i t o 
+invocación  i m b o k a z y o n 
+involución  i m b o l u z y o n 
+involucra  i m b o l u k r a
+involucraba  i m b o l u k r a b a
+involucrada  i m b o l u k r a d a
+involucradas  i m b o l u k r a d a s
+involucrado  i m b o l u k r a d o
+involucrados  i m b o l u k r a d o s
+involucramiento  i m b o l u k r a m y e n t o
+involucran  i m b o l u k r a n
+involucrar  i m b o l u k r a r
+involucrarse  i m b o l u k r a r s e
+involuntario  i m b o l u n t a r y o
+involuntarios  i m b o l u n t a r y o s
+inválidos  i m b a l i d o s 
 inyección  i n y e k z y o n 
 inyectó  i n y e k t o 
 inés  i n e s 
@@ -12608,7 +12608,7 @@ jacintos  h a z i n t o s
 jack  h a k k
 jackie  h a k k y e
 jackson  h a k k s o n
-jacksonville  h a k k s o n b i ll e
+jacksonville  h a k k s o m b i ll e
 jacob  h a k o b
 jacobo  h a k o b o
 jacobs  h a k o b s
@@ -12879,7 +12879,7 @@ kahijama  k a I h a m a
 kai  k a I
 kajiyama  k a h i y a m a
 kalkilia  k a l k i l y a
-kamtchaka  k a m t ch a k a
+kamtchaka  k a n t ch a k a
 kangafui  k a n g a f w i
 kansas  k a n s a s
 kansi  k a n s i
@@ -14105,7 +14105,7 @@ maumoon  m a U m o o n
 mauricio  m a U r i z y o
 mausoleo  m a U s o l e o
 max  m a k s
-maxim's  m a k s i m s
+maxim's  m a k s i n s
 maximizar  m a k s i m i z a r
 maya  m a y a
 mayagüez  m a y a g e z 
@@ -14131,17 +14131,17 @@ maía  m a i a
 maíz  m a i z 
 mañana  m a gn a n a 
 mañani  m a gn a n i 
-mcaffrey  e m k a f f r e I
-mccarthy  e m k k a r t i
-mcclarty  e m k k l a r t i
-mccurry  e m k k u rr i
-mcdermot  e m k d e r m o t
-mcdonalds  e m k d o n a l d s
-mcdougal  e m k d o u g a l
-mcgee  e m k h e e
-mclaren  e m k l a r e n
-mcquay  e m k k w a I
-mcveigh  e m k b e I g
+mcaffrey  e n k a f f r e I
+mccarthy  e n k k a r t i
+mcclarty  e n k k l a r t i
+mccurry  e n k k u rr i
+mcdermot  e n k d e r m o t
+mcdonalds  e n k d o n a l d s
+mcdougal  e n k d o u g a l
+mcgee  e n k h e e
+mclaren  e n k l a r e n
+mcquay  e n k k w a I
+mcveigh  e n k b e I g
 me  m e
 mear  m e a r
 mecanismo  m e k a n i s m o
@@ -14314,7 +14314,7 @@ mesino  m e s i n o
 meso  m e s o
 mesurados  m e s u r a d o s
 meta  m e t a
-metaanfetamina  m e t a a n f e t a m i n a
+metaanfetamina  m e t a a m f e t a m i n a
 metal  m e t a l
 metas  m e t a s
 mete  m e t e
@@ -15042,8 +15042,8 @@ nazareno  n a z a r e n o
 nazi  n a z i
 nazis  n a z i s
 nazismo  n a z i s m o
-nba  e n b a
-nbc  e n b k
+nba  e m b a
+nbc  e m b k
 ncis  e n z i s
 ne  n e
 necaxa  n e k a k s a
@@ -15683,7 +15683,7 @@ olímpicos  o l i m p i k o s
 omar  o m a r
 omita  o m i t a
 omitido  o m i t i d o
-oms  o m s
+oms  o n s
 omán  o m a n 
 on  o n
 once  o n z e
@@ -16399,7 +16399,7 @@ peluqueros  p e l u k e r o s
 peláez  p e l a e z 
 película  p e l i k u l a 
 películas  p e l i k u l a s 
-pemstein  p e m s t e I n
+pemstein  p e n s t e I n
 pen  p e n
 pena  p e n a
 penado  p e n a d o
@@ -18362,8 +18362,8 @@ rancho  rr a n ch o
 ranchos  rr a n ch o s
 ranchuelo  rr a n ch w e l o
 randy  rr a n d i
-ranenberger  rr a n e n b e r h e r
-ranferri  rr a n f e rr i
+ranenberger  rr a n e m b e r h e r
+ranferri  rr a m f e rr i
 rangel  rr a n h e l
 rangers  rr a n h e r s
 ranglin  rr a n g l i n
@@ -19790,7 +19790,7 @@ rosarito  rr o s a r i t o
 rosas  rr o s a s
 rosaval  rr o s a b a l
 rose  rr o s e
-rosenblat  rr o s e n b l a t
+rosenblat  rr o s e m b l a t
 roshemberg  rr o s e m b e r g
 rosie  rr o s y e
 rosny  rr o s n i
@@ -20162,7 +20162,7 @@ saturar  s a t u r a r
 satánicos  s a t a n i k o s 
 satélite  s a t e l i t e 
 satélites  s a t e l i t e s 
-saudiaramco  s a U d y a r a m k o
+saudiaramco  s a U d y a r a n k o
 saudita  s a U d i t a
 sauditas  s a U d i t a s
 savia  s a b y a
@@ -20175,7 +20175,7 @@ schilling  e s ch i ll i n g
 schlein  e s ch l e I n
 schoffman  e s ch o f f m a n
 schreiber  e s ch r e I b e r
-schulenburg  e s ch u l e n b u r g
+schulenburg  e s ch u l e m b u r g
 schultz  e s ch u l t z
 schuster  e s ch u s t e r
 schwartzenegger  e s ch w a r t s e n e g h e r
@@ -20258,7 +20258,7 @@ seguían  s e g i a n
 seguídamente  s e g i d a m e n t e 
 según  s e g u n 
 seicientos  s e I z y e n t o s
-seinfeld  s e I n f e l d
+seinfeld  s e I m f e l d
 seiroku  s e I r o k u
 seis  s e I s
 seiscientas  s e I s z y e n t a s
@@ -20639,7 +20639,7 @@ sindicalistas  s i n d i k a l i s t a s
 sindicato  s i n d i k a t o
 sindicatos  s i n d i k a t o s
 sine  s i n e
-sinfín  s i n f i n 
+sinfín  s i m f i n 
 singapur  s i n g a p u r
 singular  s i n g u l a r
 siniestra  s i n y e s t r a
@@ -20972,7 +20972,7 @@ sr  e s r
 srta  e s r t a
 stalin  e s t a l i n
 stan  e s t a n
-stanford  e s t a n f o r d
+stanford  e s t a m f o r d
 stanley  e s t a n l e I
 star  e s t a r
 starr  e s t a rr
@@ -21559,7 +21559,7 @@ tel  t e l
 tela  t e l a
 telecom  t e l e k o n
 telecomunicaciones  t e l e k o m u n i k a z y o n e s
-teleconferencia  t e l e k o n f e r e n z y a
+teleconferencia  t e l e k o m f e r e n z y a
 telefonistas  t e l e f o n i s t a s
 telefono  t e l e f o n o
 telefonía  t e l e f o n i a 
@@ -21914,7 +21914,7 @@ tomó  t o m o
 tonel  t o n e l
 tonelada  t o n e l a d a
 toneladas  t o n e l a d a s
-tonfa  t o n f a
+tonfa  t o m f a
 tong  t o n g
 tono  t o n o
 tonta  t o n t a
@@ -22245,14 +22245,14 @@ tristemente  t r i s t e m e n t e
 tristes  t r i s t e s
 tristán  t r i s t a n 
 trituraron  t r i t u r a r o n
-triunfa  t r i u n f a
-triunfado  t r i u n f a d o
-triunfador  t r i u n f a d o r
-triunfadores  t r i u n f a d o r e s
-triunfar  t r i u n f a r
-triunfo  t r i u n f o
-triunfos  t r i u n f o s
-triunfó  t r i u n f o 
+triunfa  t r i u m f a
+triunfado  t r i u m f a d o
+triunfador  t r i u m f a d o r
+triunfadores  t r i u m f a d o r e s
+triunfar  t r i u m f a r
+triunfo  t r i u m f o
+triunfos  t r i u m f o s
+triunfó  t r i u m f o 
 trivializar  t r i b y a l i z a r
 trizas  t r i z a s
 tro  t r o
@@ -23256,7 +23256,7 @@ vórtice  b o r t i z e
 waco  w a k o
 wade  w a d e
 wai  w a I
-waldenberg  w a l d e n b e r g
+waldenberg  w a l d e m b e r g
 walesa  w a l e s a
 walker  w a l k e r
 wall  w a ll
@@ -23298,7 +23298,7 @@ will  w i ll
 willem  w i ll e n
 willer  w i ll e r
 william  w i ll i a n
-williams  w i ll i a m s
+williams  w i ll i a n s
 willie  w i ll i e
 wilson  w i l s o n
 wim  w i n
@@ -23309,13 +23309,13 @@ wolf  w o l f
 wonder  w o n d e r
 wong  w o n g
 wyoming  u y o m i n g
-xaca  k s a k a
-xena  k s e n a
-xeng  k s e n g
-xenofobia  k s e n o f o b y a
-xiaoping  k s y a o p i n g
-xiutepec  k s i u t e p e k
-xochimilco  k s o ch i m i l k o
+xaca  s a k a
+xena  s e n a
+xeng  s e n g
+xenofobia  s e n o f o b y a
+xiaoping  s y a o p i n g
+xiutepec  s i u t e p e k
+xochimilco  s o ch i m i l k o
 y  i
 ya  y a
 yabrán  y a b r a n 
@@ -23358,7 +23358,7 @@ yugoslavo  y u g o s l a b o
 yukihiko  y u k i i k o
 yungay  y u n g a I
 yuri  y u r i
-yuzhnosukhokumsk  y u z n o s u k o k u m s k
+yuzhnosukhokumsk  y u z n o s u k o k u n s k
 yves  i b e s
 yvonne  i b o n n e
 yáñez  y a gn e z 
@@ -23418,7 +23418,7 @@ zócalo  z o k a l o
 África  a f r i k a 
 Álvarez  a l b a r e z 
 Álvaro  a l b a r o 
-Ánforas  a n f o r a s 
+Ánforas  a m f o r a s 
 Ángel  a n h e l 
 Ángela  a n h e l a 
 Ángeles  a n h e l e s 
@@ -23441,7 +23441,7 @@ zócalo  z o k a l o
 álgido  a l h i d o 
 ámbito  a m b i t o 
 ámbitos  a m b i t o s 
-ánfora  a n f o r a
+ánfora  a m f o r a
 ángel  a n h e l 
 ángulo  a n g u l o 
 ánimo  a n i m o 
@@ -23460,7 +23460,7 @@ zócalo  z o k a l o
 él  e l 
 élite  e l i t e 
 élites  e l i t e s 
-énfasis  e n f a s i s 
+énfasis  e m f a s i s 
 época  e p o k a 
 épocas  e p o k a s 
 éramos  e r a m o s
@@ -23488,7 +23488,7 @@ zócalo  z o k a l o
 índice  i n d i z e 
 índices  i n d i z e s 
 índole  i n d o l e 
-ínfimo  i n f i m o 
+ínfimo  i m f i m o 
 íntegramente  i n t e g r a m e n t e 
 íntima  i n t i m a 
 íntimo  i n t i m o 
