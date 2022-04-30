@@ -110,7 +110,7 @@ absorbidos  a b s o r b i d o s
 abstendremos  a b s t e n d r e m o s
 abstendrán  a b s t e n d r a n 
 abstener  a b s t e n e r
-abstienen  a b s t y e n e n
+abstienen  a b s t i e n e n
 abstinencia  a b s t i n e n z y a
 abstracción  a b s t r a k z y o n
 abstracto  a b s t r a k t o
@@ -9530,10 +9530,10 @@ expresándoles  e k s p r e s a n d o l e s
 expresándose  e k s p r e s a n d o s e 
 expresó  e k s p r e s o 
 expropiadas  e k s p r o p y a d a s
-expuesta  e k s p w e s t a
-expuestas  e k s p w e s t a s
-expuesto  e k s p w e s t o
-expuestos  e k s p w e s t o s
+expuesta  e k s p u e s t a
+expuestas  e k s p u e s t a s
+expuesto  e k s p u e s t o
+expuestos  e k s p u e s t o s
 expulsada  e k s p u l s a d a
 expulsadas  e k s p u l s a d a s
 expulsados  e k s p u l s a d o s
@@ -9568,10 +9568,10 @@ externamente  e k s t e r n a m e n t e
 externas  e k s t e r n a s
 externo  e k s t e r n o
 externó  e k s t e r n o 
-extienda  e k s t y e n d a
-extiendan  e k s t y e n d a n
-extiende  e k s t y e n d e
-extienden  e k s t y e n d e n
+extienda  e k s t i e n d a
+extiendan  e k s t i e n d a n
+extiende  e k s t i e n d e
+extienden  e k s t i e n d e n
 extinción  e k s t i n z y o n 
 extinguidores  e k s t i n g i d o r e s
 extintas  e k s t i n t a s
@@ -21768,7 +21768,7 @@ texas  t e k s a s
 texcoco  t e k s k o k o
 texto  t e k s t o
 textos  t e k s t o s
-textualmente  t e k s t w a l m e n t e
+textualmente  t e k s t u a l m e n t e
 teñidas  t e gn i d a s
 teófilo  t e o f i l o 
 teóricamente  t e o r i k a m e n t e 
