@@ -506,9 +506,9 @@ adn  a d n
 ado  a d o
 adoctrinamiento  a d o k t r i n a m y e n t o
 adoctrinando  a d o k t r i n a n d o
-adolescencia  a d o l e z e n z y a
-adolescente  a d o l e z e n t e
-adolescentes  a d o l e z e n t e s
+adolescencia  a d o l e s z e n z y a
+adolescente  a d o l e s z e n t e
+adolescentes  a d o l e s z e n t e s
 adolf  a d o l f
 adolfo  a d o l f o
 adonde  a d o n d e
@@ -1964,11 +1964,11 @@ asamblea  a s a m b l e a
 asambleas  a s a m b l e a s
 asambleísta  a s a m b l e i s t a 
 asambleístas  a s a m b l e i s t a s 
-ascendencia  a z e n d e n z y a
-ascendente  a z e n d e n t e
-ascendió  a z e n d y o 
-ascenso  a z e n s o
-ascensor  a z e n s o r
+ascendencia  a s z e n d e n z y a
+ascendente  a s z e n d e n t e
+ascendió  a s z e n d y o 
+ascenso  a s z e n s o
+ascensor  a s z e n s o r
 asciende  a s z y e n d e
 asean  a s e a n
 asedio  a s e d y o
@@ -6689,16 +6689,16 @@ descartan  d e s k a r t a n
 descartar  d e s k a r t a r
 descartaran  d e s k a r t a r a n
 descartó  d e s k a r t o 
-descender  d e z e n d e r
-descendido  d e z e n d i d o
-descendiendo  d e z e n d y e n d o
-descendieron  d e z e n d y e r o n
-descendió  d e z e n d y o 
-descendían  d e z e n d i a n
-descenso  d e z e n s o
-descentralización  d e z e n t r a l i z a z y o n 
-descentralizar  d e z e n t r a l i z a r
-descienden  d e z y e n d e n
+descender  d e s z e n d e r
+descendido  d e s z e n d i d o
+descendiendo  d e s z e n d y e n d o
+descendieron  d e s z e n d y e r o n
+descendió  d e s z e n d y o 
+descendían  d e s z e n d i a n
+descenso  d e s z e n s o
+descentralización  d e s z e n t r a l i z a z y o n 
+descentralizar  d e s z e n t r a l i z a r
+descienden  d e s z y e n d e n
 descodificador  d e s k o d i f i k a d o r
 descodificadores  d e s k o d i f i k a d o r e s
 descolarizados  d e s k o l a r i z a d o s
@@ -9735,7 +9735,7 @@ farooq  f a r o o
 farsa  f a r s a
 farucho  f a r u ch o
 farís  f a r i s 
-fascina  f a z i n a
+fascina  f a s z i n a
 fascinación  f a s z i n a z y o n 
 fascinado  f a s z i n a d o
 fascinante  f a s z i n a n t e
@@ -11667,7 +11667,7 @@ inauguró  i n a U g u r o
 inc  i n k
 incalculable  i n k a l k u l a b l e
 incamp  i n k a m p
-incandescentes  i n k a n d e z e n t e s
+incandescentes  i n k a n d e s z e n t e s
 incansable  i n k a n s a b l e
 incansablemente  i n k a n s a b l e m e n t e
 incapaces  i n k a p a z e s
@@ -15430,8 +15430,8 @@ obrera  o b r e r a
 obreras  o b r e r a s
 obrero  o b r e r o
 obreros  o b r e r o s
-obscenas  o b z e n a s
-obscenos  o b z e n o s
+obscenas  o b s z e n a s
+obscenos  o b s z e n o s
 obseno  o b s e n o
 observa  o b s e r b a
 observaciones  o b s e r b a z y o n e s
@@ -16923,8 +16923,8 @@ plaza  p l a z a
 plazas  p l a z a s
 plazo  p l a z o
 plazos  p l a z o s
-plebiscito  p l e b i z i t o
-plebiscitos  p l e b i z i t o s
+plebiscito  p l e b i s z i t o
+plebiscitos  p l e b i s z i t o s
 plegaria  p l e g a r y a
 pleitesía  p l e I t e s i a 
 pleito  p l e I t o
@@ -22138,7 +22138,7 @@ trascendental  t r a s z e n d e n t a l
 trascendentales  t r a s z e n d e n t a l e s
 trascendido  t r a s z e n d i d o
 trascendió  t r a s z e n d y o 
-trasciende  t r a z y e n d e
+trasciende  t r a s z y e n d e
 trasera  t r a s e r a
 trasero  t r a s e r o
 trasla  t r a s l a
