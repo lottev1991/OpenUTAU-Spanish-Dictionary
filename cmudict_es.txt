@@ -10986,7 +10986,7 @@ hacían  a z i a n
 hacías  a z i a s
 hadad  a d a d
 hadas  a d a s
-hadj  a d j
+hadj  a d h
 haga  a g a
 hagamos  a g a m o s
 hagan  a g a n
@@ -12598,7 +12598,7 @@ izquierdistas  i z k y e r d i s t a s
 izquierdo  i z k y e r d o
 iztapalapa  i z t a p a l a p a
 iñaki  i gn a k i
-j  j
+j  h
 ja  h a
 jabonerías  h a b o n e r i a s 
 jabul  h a b u l
@@ -19015,7 +19015,7 @@ reliquia  rr e l i k y a
 rellenando  rr e ll e n a n d o
 rellenar  rr e ll e n a r
 relocalizados  rr e l o k a l i z a d o s
-reloj  rr e l o j
+reloj  rr e l o h
 relojes  rr e l o h e s
 relucir  rr e l u z i r
 relumbrón  rr e l u m b r o n 
